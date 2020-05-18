@@ -6,7 +6,7 @@
 Pada tugas kali ini kami diminta untuk membuat website berbasis MVC sebagai tempat donasi bagi bencana pandemi Covid-19. Website ini akan memudahkan donatur untuk melakukan `Donasi` yang diinginkan. Selain itu donatur juga bisa melihat `Rekap Donasi` penyumbang yang tertera pada opsi lihat sumbangan
 
 #### Database
-Saya menggunakan database `donasi`, dimana pada database tersebut terdapat 1 tabel yaitu tabel transaksi. tabel ini digunakan untuk menyimpan data donasi. Untuk kolomnya terdiri dari, ID transaksi, nama, Nama Bantuan, Keterangan, Gender, dan Waktu transaksi.
+Saya menggunakan database `donasi`, dimana dalam database tersebut terdapat 1 tabel yaitu tabel `transaksi`. tabel ini digunakan untuk menyimpan data donasi. Untuk kolomnya terdiri dari, ID transaksi, nama, Nama Bantuan, Keterangan, Gender, dan Waktu transaksi.
 
 ### Berikut adalah penjelasan fitur dari website Bantuan Pandemi COVID19 
 1. Berikut adalah halaman `HOME` website 
