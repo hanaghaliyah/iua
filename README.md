@@ -10,10 +10,10 @@ Saya menggunakan database `donasi`, dimana dalam database tersebut terdapat 1 ta
 
 ### Berikut adalah penjelasan fitur dari website Bantuan Pandemi COVID19 
 1. Berikut adalah halaman `HOME` website 
-![lampiran awal](https://user-images.githubusercontent.com/55181778/82150022-ce71f780-9881-11ea-8386-9ccd0f67af1e.jpg)
+![Screenshot (353)](https://user-images.githubusercontent.com/26424136/82189209-39224200-9919-11ea-8a74-06f1af3e1830.png)
 
 2. selanjutnya adalah menekan opsi sumbang. dan akan diarahkan ketempat input donasi yang telah disediakan: 
-![input donasi](https://user-images.githubusercontent.com/55181778/82150076-142ec000-9882-11ea-860b-e73189a52646.jpg)
+![Screenshot (354)](https://user-images.githubusercontent.com/26424136/82189216-3b849c00-9919-11ea-93a5-edeb870e3591.png)
 
 3. apabila telah mengisi donasi yang diinginkan, tekan opsi sumbangkan dan akan muncul pemberitahuan berhasil.
 ![bukti input](https://user-images.githubusercontent.com/55181778/82150188-42140480-9882-11ea-95fa-cbbaf2f945cf.jpg)
